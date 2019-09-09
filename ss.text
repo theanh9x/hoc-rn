@@ -1,0 +1,9 @@
+Sự khác biết giữa list view & falt list:
+- bên list view:
+  +,là 1 thành phần đc các nhà phát triển tạo sẵn để giúp giải quyết chuỗi dữ liệu đơn giản,dữ liệu ko động(có sẵn)
+  +,muốn tuỳ biến nhiều tính năng hơn phải dùng pluin hỗ trợ
+  +,hiện thị dữ liệu trong trường hợp dài kiến người dùng khó chịu,ko linh hoạt
+- bên falt list:
+ +,là 1 API của list hỗ trợ trùm dữ liệu phức tạp,dữ liệu động,thêm vào dễ dàng
+ +,cho phép quấn dự liệu,tuỳ biến các dạng dữ liệu
+ +,quản lý theo key,mỗi dữ liệu có 1 key khác nhau
